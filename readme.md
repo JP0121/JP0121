@@ -11,7 +11,7 @@ I'm a US-based developer passionate about bringing ideas to life in the browser 
 - 🌱 **Currently learning:** Advanced state management and integrating serverless AWS backends.
 - 🤝 **Looking to collaborate on:** Open-source UI libraries, cloud-native projects, and creative web tools.
 - 💬 **Ask me about:** HTML5, Vanilla JS, mobile-first design, and hosting apps in the cloud!
-- 📫 **How to reach me:** jacob@lapisforge.com(mailto:your.email@example.com)
+- 📫 **How to reach me:** jacob@lapisforge.com
 - ⚡ **Fun fact:** I drink way too much coffee. 
 
 ---
@@ -40,17 +40,6 @@ I'm a US-based developer passionate about bringing ideas to life in the browser 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/JP0121">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP0121&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/JP0121">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP0121&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</p>
 
 
