@@ -12,7 +12,8 @@ I'm a US-based developer passionate about bringing ideas to life in the browser 
 - 🤝 **Looking to collaborate on:** Open-source UI libraries, cloud-native projects, and creative web tools.
 - 💬 **Ask me about:** HTML5, Vanilla JS, mobile-first design, and hosting apps in the cloud!
 - 📫 **How to reach me:** jacob@lapisforge.com
-- ⚡ **Fun fact:** I drink way too much coffee. 
+- ⚡ **Fun fact:** I drink way too much coffee.
+- 📃 **My Resume:** You can find my resume online at resume.lapisforge.com
 
 ---
 
